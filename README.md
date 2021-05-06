@@ -31,7 +31,7 @@
     โดยระบบจะเรียนรู้ว่าตอนนี้ถนนเส้นไหนที่มีรถบนท้องถนนฝั่งไหนมากกว่ากันและทำการคำนวนให้ฝั่งนั้นเป็นไฟสีเขียวที่นานกว่า
  - ระบบไฟสำหรับคนข้ามถนน โดยมีเซนเซอร์อัลตร้าโซนิคตรวจจับเมื่อมีคนมายืนในจุดก็จะสั่งการทำงาน
 
-## ♠ Traffic light systems  >> Please click on the picture. <<
+## ♠ Chakra Healing Harmonizer Speaker  >> Please click on the picture. <<
 
 [![alt text](https://github.com/WatcharapolxFa/GAME_SFML/blob/master/GAME_SFML/charecter/itc.png?raw=true)](https://youtu.be/Qy6PnIuaV58)
 
