@@ -14,10 +14,12 @@
 
 ## 🗂 Library
 
-* #include <Servo.h>
-  #include <Wire.h>
-  #include <hd44780.h> 
-  #include <hd44780_I2Cexp.h>  🗂
+*  
+#include <SD.h>                      
+//#define SD_ChipSelectPin 53  
+#define SD_ChipSelectPin 4  
+#include <TMRpcm.h>          
+#include <SPI.h>  🗂
 
 ## 👾 Feature
 
