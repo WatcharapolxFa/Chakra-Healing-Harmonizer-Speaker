@@ -14,8 +14,7 @@
 
 ## 🗂 Library
 
-*  
-#include <SD.h>                      
+* #include <SD.h>                      
 //#define SD_ChipSelectPin 53  
 #define SD_ChipSelectPin 4  
 #include <TMRpcm.h>          
